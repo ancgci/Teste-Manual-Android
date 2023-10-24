@@ -2,7 +2,7 @@
 
 Projeto de [teste de manual de aplicativo android](https://github.com/ancgci/Teste-Manual-Android) para fins educacionais na pratica da formação para Analista de Testes de Software pela [Ultima School](https://ultima.school/courses/). 
 
-Este é um projeto de teste manual utilizando equipamento celular real com bjetivo de Testar a funcionalidade e a usabilidade de um aplicativo para o sistema operacional android .
+Este é um projeto de teste manual utilizando equipamento celular real com objetivo de Testar a funcionalidade e a usabilidade de um aplicativo para o sistema operacional android .
 
 ## Aplicativo Movél Testado
 
