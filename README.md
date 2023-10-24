@@ -27,6 +27,6 @@ Este é um projeto de teste manual utilizando equipamento celular real com bjeti
 
 Visto cenario de cunho didático o roteiro de testes fora desenvolvido sobre aplicativo com funções já préviamente desenvolvidas e operantes , sem problema algum.
 
-Reiteramos que o aplicativo Biblia Fiel Comentada pertence a empresa Unipró Editora. E que teste manual realizado fora de cunho didático sem qualquer tipo de prestação de serviço a empresa. Assim ativida didática puramento voluntária por nossa parte.
+Reiteramos que o aplicativo Biblia Fiel Comentada pertence a empresa Unipró Editora. E que teste manual realizado fora de cunho didático sem qualquer tipo de prestação de serviço a empresa. Assim atividade didática puramento voluntária por nossa parte.
 
 Nos colocamos a disposição para contato para maiores esclarecimentos caso necessário.
